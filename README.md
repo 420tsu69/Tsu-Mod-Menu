@@ -1,6 +1,6 @@
 1. Open GTA V.
 
-2. Open Extreme injector (or anyother dll injector you trust).
+2. Open Extreme injector (or any other dll injector you trust).
 
 3. Select GTA V to inject into.
 
